@@ -1,6 +1,6 @@
 # WeatherLookup
 
-WeatherLookup is a simple Java API for looking up the weather for a given zip code. It provides information on current weather, as well as a forecast for the next few days.
+WeatherLookup is a simple Java library for looking up the weather for a given zip code. It provides information on current weather, as well as a forecast for the next few days.
 
 The weather data comes from either from Google or Yahoo, you can change which service to use.
 
