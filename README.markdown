@@ -12,6 +12,8 @@ You can build and run the example by running:
 
 	make example
 
+The example by default performs a lookup for the weather in Irvine, California.
+
 ## Building
 
 You can build a jar file to use with your project by running:
